@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Title
-st.title("📊 Saudization Calculator")
+st.title("📊 Saudization Calculator by Mustafa Al Basheer")
 
 # Inputs
 expats = st.number_input("Enter current expatriates:", min_value=0, value=581)
